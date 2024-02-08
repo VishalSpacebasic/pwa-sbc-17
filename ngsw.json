@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1707384006035,
+  "timestamp": 1707384134757,
   "index": "/<angular-pwa-poc>/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "/<angular-pwa-poc>/chunk-RSMZIVU7.js",
         "/<angular-pwa-poc>/favicon.ico",
         "/<angular-pwa-poc>/index.html",
-        "/<angular-pwa-poc>/main-RXHJFAJ2.js",
+        "/<angular-pwa-poc>/main-CDGVERFK.js",
         "/<angular-pwa-poc>/manifest.webmanifest",
         "/<angular-pwa-poc>/polyfills-RX4V3J3S.js",
         "/<angular-pwa-poc>/styles-QUHSH2FT.css"
@@ -55,8 +55,8 @@
     "/<angular-pwa-poc>/chunk-ROUP4ENZ.js": "ca8c004e5b63002d827e217eba12205fbff1ca53",
     "/<angular-pwa-poc>/chunk-RSMZIVU7.js": "d62b2ce433bde285f3b2366515d98b52261fc1fb",
     "/<angular-pwa-poc>/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/<angular-pwa-poc>/index.html": "87f256ab138e5fc8d111acf6d7e27603fcba569c",
-    "/<angular-pwa-poc>/main-RXHJFAJ2.js": "616236bd0c556ca4971d6a80e8f2c8176b24ade0",
+    "/<angular-pwa-poc>/index.html": "9324645ff4c64e3ea069e21faafe3a9805a56bdb",
+    "/<angular-pwa-poc>/main-CDGVERFK.js": "06121a6e9be1429f6651edbdcbd099c535ba839f",
     "/<angular-pwa-poc>/manifest.webmanifest": "f5bb502b990df634b865f1a67d7c702cf1a53969",
     "/<angular-pwa-poc>/polyfills-RX4V3J3S.js": "6b4c4ea33aa92bce0b91df442a680ed73e4303db",
     "/<angular-pwa-poc>/styles-QUHSH2FT.css": "f2258ef1590efeb0d4724407012e5798795fe746"
